@@ -15,4 +15,7 @@ public class SaidTextItem {
 
     public String voiceName;
     public String audioFilePath;
+    public String language;
+    public float pitch;
+    public float speed;
 }
